@@ -1,0 +1,1 @@
+select * from employee where fullname = upper('Иванов Иван Иванович');
